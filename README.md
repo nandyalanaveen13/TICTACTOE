@@ -1,18 +1,17 @@
-## Getting Started
+Project Structure
+src/: Contains the Java source code files.
+bin/: Holds the compiled .class files.
+.vscode/: Includes Visual Studio Code configuration settings.
+README.md: Provides initial setup instructions for the project.​
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Features
+A simple command-line interface for two-player gameplay.
+Structured for easy compilation and execution within Visual Studio Code.
+Ideal for educational purposes, especially for those new to Java programming.
 
-## Folder Structure
+1.Clone the repository:​
+  git clone https://github.com/nandyalanaveen13/TICTACTOE.git
+2. Open the project folder in Visual Studio Code.
+3. Ensure you have the Java Extension Pack installed in VS Code. 
+4. Navigate to the src directory and run the main Java file to start the game.  
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
